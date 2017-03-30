@@ -8,5 +8,7 @@ int main(){
 	for(int i=0; i<=10: i++)
 		i += i;
 
+	printf("i의 총합은 %d입니다\n", i); 
+
 	return 0;
 }
