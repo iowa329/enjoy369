@@ -2,7 +2,7 @@
 
 int main(){
 
-	printf("HelloWorld in 2019!\n");
+	printf("Helloworld in 2019!\n");
 	printf("HelloGit!\n");
 	printf("This is the first insert new line in HelloGit c source file.\n");
 
