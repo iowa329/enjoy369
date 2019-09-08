@@ -9,6 +9,12 @@ int main(){
 		i += i;
 
 	printf("i의 총합은 %d입니다\n", i); 
+	
+	int sum;
+	while(true){
+		sum = sum + i;
+		printf("Sum of the products\n");
+	}
 
 	return 0;
 }
